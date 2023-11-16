@@ -8,6 +8,7 @@ I used some types of graphics to explain the aspects of Store Sales:
 - Gaugh with ranges and sparkline charts: used to show data about sales and profit margin.
 - Scatter chart: used to compare the shopping malls from the perspective of sales and profit margin.
 - Bar chart: used to compare the categories from the perspective of sales and profit margin.
+- Menu Bar: used to navigate between pages.
 
 Dashboard available on:
 https://lookerstudio.google.com/reporting/20d5ea49-feb1-402e-a2e2-769ca05d2e19
