@@ -17,5 +17,6 @@ https://www.kaggle.com/datasets/kzmontage/sales-from-different-stores/
 
 ![image](https://github.com/marciaback/lookerstudio_store_sales/assets/45545675/819b9974-1e28-4117-ad7a-840a81d6bda4)
 
+![image](https://github.com/marciaback/lookerstudio_store_sales/assets/45545675/c56c2c26-5534-4bbc-bf6b-a009b8441825)
 
 
